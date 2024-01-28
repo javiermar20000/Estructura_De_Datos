@@ -1,0 +1,3 @@
+Transferencia de -50000.0 a 100000.0
+Giro: 150000.0
+Depósito: 200000.0
